@@ -4,7 +4,7 @@ import { Nav } from "./Nav";
 import { Pharmacy } from "./Pharmacy";
 
 export const Home = () => {
-  return <div>
+  return <div >
     <Nav/>
     <Input/>
     <Pharmacy/>
