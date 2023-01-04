@@ -15,21 +15,8 @@ export const Input = () => {
             placeholder="Type here"
             className="input input-bordered"
           />
-          <button className="text-white border-none btn btn-square bg-primary">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              className="w-6 h-6"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth="2"
-                d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
-              />
-            </svg>
+          <button className="px-8 text-base text-white normal-case border-none btn btn-square bg-primary">
+            Search
           </button>
         </div>
       </div>

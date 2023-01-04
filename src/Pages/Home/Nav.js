@@ -4,7 +4,7 @@ export const Nav = () => {
   return (
     <div className="lg:px-16 md:px-12 navbar bg-base-100">
       <div className="navbar-start">
-        <a className="text-xl normal-case btn btn-ghost">Tuggl</a>
+        <a className="text-3xl normal-case ">tuggl</a>
       </div>
 
       <div className="navbar-end">
