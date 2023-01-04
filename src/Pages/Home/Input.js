@@ -8,14 +8,14 @@ export const Input = () => {
           <input
             type="text"
             placeholder="Type here"
-            className="flex-none w-full md:mr-2 lg:mr-2 input input-bordered"
+            className="flex-none w-full mt-2 md:mr-2 lg:mr-2 input input-bordered"
           />
           <input
             type="text"
             placeholder="Type here"
-            className="flex-none input input-bordered md:mr-2 lg:mr-2"
+            className="flex-none mt-2 input input-bordered md:mr-2 lg:mr-2"
           />
-          <button className="px-8 text-base text-white normal-case border-none btn bg-primary grow">
+          <button className="px-8 mt-2 text-base text-white normal-case border-none btn bg-primary grow">
             Search
           </button>
         </div>
